@@ -24,6 +24,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\FindTheOddInt\FindTheOddInt.csproj" />
+      <ProjectReference Include="..\SpinWords\SpinWords.csproj" />
     </ItemGroup>
 
 </Project>

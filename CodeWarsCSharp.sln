@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheOddInt", "FindTheOdd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{BF7A413F-784A-4FB6-B664-DD623656A56E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWords", "SpinWords\SpinWords.csproj", "{185F03F3-5631-468F-B07E-FD9B7E2EEA42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{BF7A413F-784A-4FB6-B664-DD623656A56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7A413F-784A-4FB6-B664-DD623656A56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7A413F-784A-4FB6-B664-DD623656A56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

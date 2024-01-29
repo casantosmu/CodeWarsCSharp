@@ -1,4 +1,4 @@
-namespace Tests;
+namespace asfafa;
 
 using global::FindTheOddInt;
 
