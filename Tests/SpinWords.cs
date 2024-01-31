@@ -1,8 +1,8 @@
+using SpinWords;
+
 namespace Tests;
 
-using global::SpinWords;
-
-public class SpinWords
+public class SpinWordsTest
 {
     [Theory]
     [InlineData("Hey fellow warriors", "Hey wollef sroirraw")]

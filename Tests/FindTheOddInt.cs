@@ -1,8 +1,8 @@
-namespace asfafa;
+using FindTheOddInt;
 
-using global::FindTheOddInt;
+namespace Tests;
 
-public class FindTheOddInt
+public class FindTheOddIntTest
 {
     [Theory]
     [InlineData(new[] { 7 }, 7)]

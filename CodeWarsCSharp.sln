@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpinWords", "SpinWords\SpinWords.csproj", "{185F03F3-5631-468F-B07E-FD9B7E2EEA42}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisemvowelTrolls", "DisemvowelTrolls\DisemvowelTrolls.csproj", "{12B63016-19BC-4F51-80F6-568D29BEFCC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{185F03F3-5631-468F-B07E-FD9B7E2EEA42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B63016-19BC-4F51-80F6-568D29BEFCC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B63016-19BC-4F51-80F6-568D29BEFCC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B63016-19BC-4F51-80F6-568D29BEFCC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B63016-19BC-4F51-80F6-568D29BEFCC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
