@@ -2,7 +2,7 @@ using DisemvowelTrolls;
 
 namespace Tests;
 
-public class DisemvowelTest
+public class DisemvowelTrollsTest
 {
     [Theory]
     [InlineData("This website is for losers LOL!", "Ths wbst s fr lsrs LL!")]
