@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisemvowelTrolls", "Disemvo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOf3or5", "MultiplesOf3or5\MultiplesOf3or5.csproj", "{5BEADAF8-4B2E-42E9-8AAB-7C9A3A30B82F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount\VowelCount.csproj", "{75002D04-B28B-411E-9B94-EA3C441DD02B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCount", "VowelCount\VowelCount.csproj", "{75002D04-B28B-411E-9B94-EA3C441DD02B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
