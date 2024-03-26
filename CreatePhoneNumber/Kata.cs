@@ -1,6 +1,6 @@
 ﻿namespace CreatePhoneNumber;
 
-public class Kata
+public static class Kata
 {
     public static string CreatePhoneNumber(int[] numbers)
     {

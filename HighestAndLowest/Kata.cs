@@ -1,6 +1,6 @@
 ﻿namespace HighestAndLowest;
 
-public class Kata
+public static class Kata
 {
     public static string HighAndLow(string numbers)
     {

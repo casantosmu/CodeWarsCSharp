@@ -6,12 +6,8 @@ public static class Kata
     {
         var odds = new HashSet<int>();
         foreach (var digit in seq)
-        {
             if (!odds.Remove(digit))
-            {
                 odds.Add(digit);
-            }
-        }
 
         return odds.Single();
     }

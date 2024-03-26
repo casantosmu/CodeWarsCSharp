@@ -2,7 +2,7 @@
 
 namespace SpinWords;
 
-public class Kata
+public static class Kata
 {
     private static string FormatWord(string word)
     {
@@ -18,11 +18,11 @@ public class Kata
     {
         var stringBuilder = new StringBuilder();
         var words = sentence.Split(" ");
-        stringBuilder.Append(Kata.FormatWord(words[0]));
+        stringBuilder.Append(FormatWord(words[0]));
         for (var i = 1; i < words.Length; i++)
         {
             var word = words[i];
-            stringBuilder.Append(' ').Append(Kata.FormatWord(word));
+            stringBuilder.Append(' ').Append(FormatWord(word));
         }
 
         return stringBuilder.ToString();
