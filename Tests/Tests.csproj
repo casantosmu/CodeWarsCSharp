@@ -26,6 +26,7 @@
         <ProjectReference Include="..\CreatePhoneNumber\CreatePhoneNumber.csproj"/>
         <ProjectReference Include="..\DisemvowelTrolls\DisemvowelTrolls.csproj"/>
         <ProjectReference Include="..\FindTheOddInt\FindTheOddInt.csproj"/>
+        <ProjectReference Include="..\HighestAndLowest\HighestAndLowest.csproj"/>
         <ProjectReference Include="..\MultiplesOf3or5\MultiplesOf3or5.csproj"/>
         <ProjectReference Include="..\SpinWords\SpinWords.csproj"/>
         <ProjectReference Include="..\VowelCount\VowelCount.csproj"/>
